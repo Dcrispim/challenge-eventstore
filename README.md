@@ -2,9 +2,11 @@
 
 ## General
 
-The implementation of class was maked using a **circular doubly linked list** to facilitate navigation between the elements.
+The implementation of class `ChallengeStore()` was maked using a **circular doubly linked list** to facilitate navigation between the elements. The class `Node()` was used as an auxiliary.
 
 Each method that changes or queries the List is using `synchronized` to prevent more than two threads calls at the same time
+
+The tests ara located at `ChallengeTest.java`.
 
 ## Insert
 
