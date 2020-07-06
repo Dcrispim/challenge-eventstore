@@ -14,3 +14,7 @@
 /trace.db
 .jhw-cache
 dependency-reduced-pom.xml
+.settings
+.project
+.classpath
+nbactions.xml
